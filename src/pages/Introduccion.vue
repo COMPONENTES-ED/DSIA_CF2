@@ -38,7 +38,8 @@
           p.mb-0 Finalmente, el componente se enfoca en la documentación detallada del modelo de datos, proporcionando lineamientos claros para elaborar diccionarios de datos y diseñar esquemas bien definidos. La documentación no solo facilita el mantenimiento y las actualizaciones futuras, sino que también garantiza la colaboración efectiva entre equipos. Este recorrido por la validación y el modelado de datos te preparará para crear sistemas robustos y alineados con las mejores prácticas de la industria.
 
 
-    p ¡Bienvenido a este viaje por el mundo de la gestión de datos, donde aprenderás a diseñar estructuras eficientes y a documentar modelos de manera clara y precisa!
+    p ¡Bienvenido a este viaje por el mundo de la gestión de datos, donde aprenderá a diseñar estructuras eficientes y a documentar modelos de manera clara y precisa!
+
 
     .row.justify-content-center.align-items-center        
       .col-lg-12

@@ -60,7 +60,7 @@
                 span #[b #[i mark id (integer):]] identificador único para cada registro de calificación.
               li 
                 i.fas.fa-check-circle.color1
-                span #[b #[i student id (integer):]] referencia al estudiante que recibió la calificación, se conecta con la entidad Students.
+                span #[b #[i student id (integer):]] referencia al estudiante que recibió la calificación, se conecta con la entidad #[em Students].
               li 
                 i.fas.fa-check-circle.color1
                 span #[b #[i subject id (integer):]] referencia a la asignatura evaluada, se conecta con la entidad #[em Subjects].
@@ -135,7 +135,7 @@
             ul.mb-0.lista-ul.fa-ul
               li.mb-0 
                 i.fas.fa-check-circle.color1
-                span.mb-0 #[b Relación entre #[em Marks] y #[em Subjects]:] la entidad Marks se conecta con #[em Subjects] a través del subject id. Cada calificación pertenece a una asignatura específica. 
+                span.mb-0 #[b Relación entre #[em Marks] y #[em Subjects]:] la entidad #[em Marks] se conecta con #[em Subjects] a través del #[em subject] id. Cada calificación pertenece a una asignatura específica. 
           .bgw.brad.p-3.j1.mb-3
             ul.mb-0.lista-ul.fa-ul
               li.mb-0 

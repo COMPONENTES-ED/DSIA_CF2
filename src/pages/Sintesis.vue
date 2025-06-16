@@ -40,7 +40,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img.img-a.img-t(src="@/assets/curso/temas/sintesis.svg", alt="La Figura 3 se denomina «Síntesis temática del componente», allí se mencionan los principales temas tratados sobre validación de requerimientos y modelado de bases de datos.")
+          img.img-a.img-t(src="@/assets/curso/temas/sintesis.svg", alt="La síntesis menciona los principales temas tratados sobre validación de requerimientos y modelado de bases de datos.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

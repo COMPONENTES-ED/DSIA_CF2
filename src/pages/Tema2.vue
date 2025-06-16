@@ -224,7 +224,7 @@
           .col-lg-auto.j1
             img.img-a.img-t(src='@/assets/curso/temas/32.png' alt='')
           .col.pt-lg-0.pt-md-4.j1
-            p.mb-0 Ejemplo práctico: imagina un sistema de gestión escolar donde los datos de los estudiantes y sus calificaciones se almacenan en una tabla grande. Aplicar procesos de normalización implica dividir esta tabla en varias, como “Estudiantes”, “Cursos”, y “Calificaciones”, asegurando que cada tabla almacene solo la información relevante y esté bien relacionada con las demás.               
+            p.mb-0 Ejemplo práctico: imagine un sistema de gestión escolar donde los datos de los estudiantes y sus calificaciones se almacenan en una tabla grande. Aplicar procesos de normalización implica dividir esta tabla en varias, como “Estudiantes”, “Cursos”, y “Calificaciones”, asegurando que cada tabla almacene solo la información relevante y esté bien relacionada con las demás.               
 
 </template>
 

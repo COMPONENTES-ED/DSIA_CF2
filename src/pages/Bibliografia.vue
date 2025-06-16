@@ -50,7 +50,7 @@ export default {
       {
         referencia:
           'Hewasinghage, M., Nadal, S., Abelló, A., & Zimányi, E. (2023). Automated database design for document stores with multicriteria optimization. Knowledge and Information Systems, 65(7), 3045–3078.',
-        link: 'https://doi.org/10.1007/s10115-023-01828-3.',
+        link: 'https://doi.org/10.1007/s10115-023-01828-3',
       },
       {
         referencia:
