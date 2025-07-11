@@ -99,7 +99,7 @@
             tbody
               tr
                 td
-                  img.img-a.img-t(src='@/assets/curso/temas/25.svg' alt='La Tabla 1 se denomina «Tipos de relaciones» y presenta un ejemplo para cada relación:  uno a uno, uno a muchos, muchos a muchos, explicando las características de cada una.') 
+                  img.img-a.img-t(src='@/assets/curso/temas/25.svg' alt='Para "Relación Uno a Uno (1:1)". Esta imagen, titulada "Relación Uno a Uno (1:1)", explica el primer tipo de relación en bases de datos. Para ilustrarlo, presenta un diagrama de ejemplo que conecta a una "Persona" con su "Pasaporte". En el diagrama, la tabla "Persona", con los datos de Juan (ID: 1), está vinculada directamente a la tabla "Pasaporte", que contiene el número A123 y el ID de persona correspondiente. Una flecha de doble sentido entre ambas tablas simboliza que la relación es única y recíproca. El texto complementario explica que este tipo de vínculo se usa para datos exclusivos, donde cada registro de una tabla sólo puede corresponder a un único registro de la otra.') 
                   br
                   br
                   ul.lista-ul.fa-ul
@@ -114,7 +114,7 @@
                       span Se usa para datos únicos y exclusivos                   
 
                 td
-                  img.img-a.img-t(src='@/assets/curso/temas/26.svg' alt='La Tabla 1 se denomina «Tipos de relaciones» y presenta un ejemplo para cada relación:  uno a uno, uno a muchos, muchos a muchos, explicando las características de cada una.')
+                  img.img-a.img-t(src='@/assets/curso/temas/26.svg' alt='Para "Relación Uno a Muchos (1:N)". La segunda imagen describe la "Relación Uno a Muchos (1:N)", destacada como el tipo de relación más común. El ejemplo visualiza la conexión entre un "Usuario" y sus "Pedidos". En el centro del diagrama, una tabla muestra al usuario "Ana" (ID: 1), y de ella parte una flecha que apunta a tres pedidos diferentes. Cada uno de estos pedidos, aunque son registros separados, comparte el mismo "ID_Usuario: 1", demostrando así cómo cada uno pertenece únicamente a Ana. De esta manera, la imagen ilustra el principio fundamental de esta relación: un registro de la primera tabla (el usuario) puede estar conectado a múltiples registros de la segunda (los pedidos).')
                   br
                   br 
                   ul.lista-ul.fa-ul
@@ -129,7 +129,7 @@
                       span Es el tipo de relación más común                   
 
                 td
-                  img.img-a.img-t(src='@/assets/curso/temas/27.svg' alt='La Tabla 1 se denomina «Tipos de relaciones» y presenta un ejemplo para cada relación:  uno a uno, uno a muchos, muchos a muchos, explicando las características de cada una.')
+                  img.img-a.img-t(src='@/assets/curso/temas/27.svg' alt='Para "Relación Muchos a Muchos (N:M)". La tercera imagen detalla la compleja "Relación Muchos a Muchos (N:M)", usando como ejemplo la matrícula de "Estudiantes" en "Cursos". El diagrama plantea un escenario donde varios estudiantes, como María y Pedro, pueden inscribirse en varios cursos, como Matemáticas e Historia. Para hacer posible esta conexión, la imagen resalta la solución indispensable: una "Tabla Intermedia". Esta tabla especial funciona como un puente, ya que, según explica el texto, contiene las claves primarias de las otras dos (Estudiante_ID y Curso_ID), permitiendo así que múltiples registros de una tabla se vinculen con múltiples registros de la otra de forma ordenada.')
                   br
                   br 
                   ul.lista-ul.fa-ul
